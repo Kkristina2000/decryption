@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    margin: 0px auto;
+    background-color: black;
+}
+.section-decryption{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#decrypt{
+    width:10rem;
+    height: 3rem;
+    border-radius:1.5rem;
+    background-color: green;
+    border-color: rgb(1, 20, 1);
+    color: honeydew;
+}
+#answer{
+    color:honeydew;
+    font-size: 22px;
+    margin: 0px 51px;
+}
+
