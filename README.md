@@ -1,6 +1,7 @@
 Message decryption(HTML+CSS+JavaScript)
 
 TEST TASK: 
+
 Alice knows that NSA agents use the following algorithm to cipher their messages.
 
 1) They delete all spaces and punctuation marks.
