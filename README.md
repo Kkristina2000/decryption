@@ -13,7 +13,10 @@ Alice has intercepted some messages which are "meaningless" sequences of letters
 The solution should be a simple HTML page with one Textarea, one Button, and one Answer area. When a user clicks the Button, the message entered in Textarea should be processed by aliceDecrypt(message) function and the result should be displayed in Answer area. The message always consists of lowercase English letters and its length is at most 100000. Output the message after step 2). The program should produce an answer in less than a few seconds.
 
 Example:
+
 Insert the following message in Textarea: wwaldaadicffenn
+
 Press Decrypt button
+
 The decrypted message appears in Answer area: alice
 
